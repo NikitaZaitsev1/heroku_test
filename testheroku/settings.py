@@ -30,7 +30,7 @@ ALLOWED_HOSTS = [
     '127.0.0.1',
     'localhost',
     #Heroku host value
-    'djblogapp.herokuapp.com'
+    'herokutest104.herokuapp.com'
 ]
 
 
