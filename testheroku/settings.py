@@ -31,7 +31,8 @@ ALLOWED_HOSTS = [
     '127.0.0.1',
     'localhost',
     #Heroku host value
-    'mighty-beyond-60192.herokuapp.com'
+    'mighty-beyond-60192.herokuapp.com',
+    'herokutest104.herokuapp.com',
 ]
 
 
